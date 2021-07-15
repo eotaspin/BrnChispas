@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BrnChispas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BrnChispas_jar</output-path>
+    <root id="archive" name="BrnChispas.jar">
+      <element id="module-output" name="BrnChispas" />
+    </root>
+  </artifact>
+</component>
