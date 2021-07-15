@@ -7,6 +7,6 @@ public class Main {
         System.out.println("-> Brn Chispas ");
         System.out.println("--> @Alfon Mtz");
         System.out.println("--> Hello world");
-        System.out.println("--> El abuelo fue picador. Version20 ");
+        System.out.println("--> El abuelo fue picador. Version 20 ");
     }
 }
